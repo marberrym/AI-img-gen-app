@@ -1,0 +1,6 @@
+[submodule "ai_img_gen_app_backend"]
+	path = ai_img_gen_app_backend
+	url = git@github.com:marberrym/AI_img_gen_app_backend.git
+[submodule "ai_img_gen_app_frontend"]
+	path = ai_img_gen_app_frontend
+	url = git@github.com:marberrym/AI_image_gen_app.git
